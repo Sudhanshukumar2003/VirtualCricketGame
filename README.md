@@ -23,7 +23,7 @@ The main function orchestrates the entire cricket game flow:
 ### 2. **Player Pool**
 The game includes a roster of famous Indian cricket players:
 - Rohit Sharma
-- Shubhman Gill
+- Shubman Gill
 - Virat Kohli
 - Shreyas Iyer
 - K. Lokesh Rahul
